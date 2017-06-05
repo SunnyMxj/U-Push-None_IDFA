@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "U-Push-None_IDFA"
-  s.version      = "1.4.0"
+  s.version      = "1.5.0"
   s.author       = { "Ryan" => "253781200@qq.com" }
   s.summary      = "UMessage Push None_IDFA."
   s.homepage     = "http://dev.umeng.com/message/ios/sdk-download"
